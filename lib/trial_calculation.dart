@@ -1,5 +1,11 @@
+import 'package:trial_calculation/src/math_utils.dart';
+
 /// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
+class CalculatorTrial {
+
+  MathUtils mathUtils = MathUtils();
+
+  String info = "This is a trial calculation By Arpa";
+ 
   int addOne(int value) => value + 1;
 }
