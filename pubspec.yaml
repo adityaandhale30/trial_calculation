@@ -1,7 +1,7 @@
 name: trial_calculation
 description: A Flutter package for addition and multiplication
 version: 0.0.1
-homepage:
+homepage: https://github.com/adityaandhale30/trial_calculation
 
 environment:
   sdk: ^3.6.1
